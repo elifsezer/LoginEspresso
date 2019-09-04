@@ -3,6 +3,7 @@
 Espresso use UI testing
 
 Create test case for login screen. The login scenario in my case,
+
 •	When the user opens the app, the user is sees splash screen. Then login activity loaded. 
 
 •	The user enters email and password and button clicks 
